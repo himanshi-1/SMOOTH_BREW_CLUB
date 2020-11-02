@@ -2,7 +2,7 @@
 
 # Description
     
-      The main motive behind making this Cafeteria App was to get rid out of standing in a
+      The main motive behind making this SMOOTH_BREW_CLUB App was to get rid out of standing in a
       queue for ordering your Coffee and get it on the table without waiting for a long time and
       through this app you can select how much spoon sugar you want as well as how much the strength
       should be of your Coffee.
